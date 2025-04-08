@@ -54,7 +54,7 @@ The Smart Electric Heater system consists of **three main components**:
 ## 🔧 **How to Set Up the Project**
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/RonAssa10/IOT_Smart_Electric_Heater
+git clone https://github.com/RonGershtein/WarmUp---Smart-Electric-Heater
 cd smart-electric-heater
 ```
 
