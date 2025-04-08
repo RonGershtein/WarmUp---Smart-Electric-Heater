@@ -1,62 +1,77 @@
-🔥 WarmUp – Smart Electric Heater IoT Project
-🌟 Introduction
-In the age of smart homes, WarmUp is an innovative IoT-based system that enables remote control and real-time monitoring of your electric water heater. Designed to enhance user experience, improve energy efficiency, and prevent unexpected malfunctions, WarmUp brings smarter comfort to your home.
+# 🔥 WarmUp – Smart Electric Heater (IoT Project)
 
-🚀 Features & Capabilities
-✔️ Remote Control – Turn the heater ON/OFF from anywhere using a mobile or web app
-✔️ Real-Time Monitoring – View water temperature and device connection status live
-✔️ Automated Shutdown – Automatically powers off when the desired temperature is reached
-✔️ Scheduled Activation – Set custom schedules for the heater based on your routine
-✔️ Smart Notifications – Get alerts when heating is complete or if temperatures exceed safe limits
-✔️ Energy Saving – Reduces electricity waste and lowers utility costs
+## 🌐 Introduction  
+**WarmUp** is a smart IoT system for controlling and monitoring your electric water heater remotely. It helps improve energy efficiency, enhances user experience, and prevents overheating or malfunctions.
 
-🧠 System Architecture
-WarmUp is built around three key components:
+---
 
-1️⃣ Relay & Temperature Sensor – Monitors water temperature and controls heating
-2️⃣ MQTT Broker – Enables secure, lightweight communication between devices
-3️⃣ Central Controller – Coordinates all system functions and sends updates to the user
+## 🚀 Features  
+- ✅ **Remote Control** – Turn the heater ON/OFF from anywhere  
+- 📡 **Real-Time Monitoring** – Track water temperature and connection status  
+- 🔒 **Automatic Shutdown** – Turns off the heater when target temperature is reached  
+- ⏰ **Scheduled Heating** – Set up heating times in advance  
+- 📬 **Alerts & Notifications** – Get notified when heating is done or safety limits are exceeded  
+- 💡 **Energy Efficient** – Save electricity and reduce costs
 
-📡 Workflow
-The sensor measures current water temperature
+---
 
-The controller evaluates the data and decides whether to continue heating
+## 🛠️ System Architecture  
+The system includes:
 
-The user gets live updates and can turn the heater ON or OFF remotely
+1. **Relay & Temperature Sensor** – Reads temperature and controls heating  
+2. **MQTT Broker** – Handles communication between the heater and user devices  
+3. **Central Controller** – Processes data and manages automation/alerts
 
-🧾 Requirements
-📱 Mobile/Web App – User registration required
-🌐 Internet Connection – Needed for remote access
-💡 Compatible Devices – Supports IoT-enabled water heaters
-🕒 Scheduling – Customizable heating times
+---
 
-🎯 Goals & Achievements
-✅ Energy Efficiency – Cuts unnecessary energy consumption
-✅ Enhanced Safety – Prevents overheating with automatic shutoff
-✅ User-Friendly Interface – Simple and intuitive to use
-✅ Device Longevity – Smarter heating cycles extend heater lifespan
+## 📈 Workflow  
 
-⚠️ Challenges & Limitations
-🚧 Internet Dependency – Remote functions require a stable connection
-🖥️ Device Access – A desktop interface is available for users without smartphones
+1. Sensor reads the water temperature  
+2. Controller checks if the target temperature is reached  
+3. User can monitor and control the heater in real time  
 
-🔧 Setup Instructions
-1️⃣ Clone the repository
-git clone https://github.com/RonGershtein/WarmUp---Smart-Electric-Heater  
-cd smart-electric-heater   
-🤝 Contributing
-Want to help improve WarmUp?
+---
 
-Fork the repository
+## 📋 Requirements  
+- 📱 Mobile or Web App (user registration required)  
+- 🌐 Internet connection  
+- 🔌 Compatible with IoT-enabled heaters  
+- 📅 Scheduling support  
 
-Create a new branch: git checkout -b feature-name
+---
 
-Commit your changes: git commit -m "Add new feature"
+## 🏆 Benefits  
+- 🔋 **Saves Energy**  
+- 🔥 **Improves Safety**  
+- 🧑‍💻 **Easy to Use Interface**  
+- 🛡️ **Extends Heater Lifespan**
 
-Push your branch: git push origin feature-name
+---
 
-Submit a Pull Request
+## ⚠️ Limitations  
+- Requires an active internet connection for remote use  
+- Desktop web version available for users without smartphones  
 
-We welcome all contributions! 🛠️
+---
 
-🎉 Thanks for checking out WarmUp – Stay warm, stay smart! 🔥😊
+## 🚀 Getting Started  
+
+Clone the project:
+```bash
+git clone https://github.com/RonGershtein/WarmUp---Smart-Electric-Heater
+cd smart-electric-heater
+
+## 🤝 Contributing
+We welcome contributions to **WarmUp**!
+To contribute:
+1. **Fork** this repository  
+2. **Create a new branch**  
+   ```bash
+   git checkout -b feature-name
+   git commit -m "Add feature"
+   git push origin feature-name
+
+🙏 Thank You
+Thanks for checking out WarmUp!
+Stay warm, stay smart. 🔥🙂
+
