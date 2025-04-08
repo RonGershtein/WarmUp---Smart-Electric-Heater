@@ -1,0 +1,16 @@
+clientID,timestamp,receiver,transmitter,topic,subscriber,message
+IOT_client-Id-4536812,2025-04-08 15:13:03,Button,User,pr/home/1234567/sts,GUI,"""value"":1"
+IOT_client-Id234-9378386,2025-04-08 15:13:07,DHT Sensor,SensorUnit,pr/home/5976397/sts,GUI,Temperature: 25 Humidity: 74.6
+IOT_client-Id234-9378386,2025-04-08 15:13:12,DHT Sensor,SensorUnit,pr/home/5976397/sts,GUI,Temperature: 27 Humidity: 75.6
+IOT_client-Id234-9378386,2025-04-08 15:13:17,DHT Sensor,SensorUnit,pr/home/5976397/sts,GUI,Temperature: 29 Humidity: 75.3
+IOT_client-Id234-9378386,2025-04-08 15:13:22,DHT Sensor,SensorUnit,pr/home/5976397/sts,GUI,Temperature: 31 Humidity: 74.4
+IOT_client-Id234-9378386,2025-04-08 15:13:27,DHT Sensor,SensorUnit,pr/home/5976397/sts,GUI,Temperature: 33 Humidity: 74.3
+IOT_client-Id234-9378386,2025-04-08 15:13:32,DHT Sensor,SensorUnit,pr/home/5976397/sts,GUI,Temperature: 35 Humidity: 76.1
+IOT_client-Id234-9378386,2025-04-08 15:13:37,DHT Sensor,SensorUnit,pr/home/5976397/sts,GUI,Temperature: 37 Humidity: 75.0
+IOT_client-Id234-9378386,2025-04-08 15:13:42,DHT Sensor,SensorUnit,pr/home/5976397/sts,GUI,Temperature: 39 Humidity: 74.2
+IOT_client-Id234-9378386,2025-04-08 15:13:47,DHT Sensor,SensorUnit,pr/home/5976397/sts,GUI,Temperature: 41 Humidity: 76.3
+IOT_client-Id234-9378386,2025-04-08 15:13:52,DHT Sensor,SensorUnit,pr/home/5976397/sts,GUI,Temperature: 43 Humidity: 75.7
+IOT_client-Id234-9378386,2025-04-08 15:13:57,DHT Sensor,SensorUnit,pr/home/5976397/sts,GUI,Temperature: 45 Humidity: 75.8
+IOT_client-Id234-9378386,2025-04-08 15:14:02,DHT Sensor,SensorUnit,pr/home/5976397/sts,GUI,Temperature: 47 Humidity: 75.9
+IOT_client-Id234-9378386,2025-04-08 15:14:07,DHT Sensor,SensorUnit,pr/home/5976397/sts,GUI,Temperature: 25 Humidity: 76.4
+IOT_client-Id234-9378386,2025-04-08 15:14:12,DHT Sensor,SensorUnit,pr/home/5976397/sts,GUI,Temperature: 27 Humidity: 75.7
